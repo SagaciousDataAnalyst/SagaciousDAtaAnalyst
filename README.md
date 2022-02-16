@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python,Data Science and Mechine Learning**
 
-- 📫 How to reach me **gikkishailaja@gmail.com**
+- 📫 How to reach me **shailaja.gikki@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shailajagikki/](https://www.linkedin.com/in/shailajagikki/)
 
