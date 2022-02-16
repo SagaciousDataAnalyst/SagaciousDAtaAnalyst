@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Advanced Data Science and Machine Learning Techniques**
 
-- 👨‍💻 All of my projects are available at [gikkishailaja@gmail.com](gikkishailaja@gmail.com)
+- 👨‍💻 All of my projects are available at [shailaja.gikki@outlook.com](shailaja.gikki@outlook.com)
 
 - 📝 I regularly write articles on [Data Science with python](Data Science with python)
 
